@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>ffb65265-5f6e-4e47-b85a-85fa07da5425</TargetProject>
+    <FriendlyName>VWorld2</FriendlyName>
+  </ProjectTarget>
+</ProfilingTarget>
